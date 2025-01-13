@@ -69,10 +69,13 @@ tech stack
 
 
 <!--
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=cyanpup242&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false) -->
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=cyanpup242&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false) 
+-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cyanpup242&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=cyanpup242&redirect=true)
 
+<!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cyanpup242)
+-->
 
 
