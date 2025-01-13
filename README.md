@@ -24,7 +24,7 @@ for freelance work? do reach out: [email](jennifercheng2001@gmail.com) :)
 
 
 
-- 🔭 I’m currently working on **_my portfolio website_** 
+- 🔭 I’m currently working on **_my startup Neo007_** and _**my portfolio website**_
 - 🌱 I’m currently learning **_next.js_**
 - 👯 I’m looking to collaborate on **_big and small projects!_**
 - 🤔 I’m looking for help with **_implementing slms and agents_**
@@ -43,7 +43,6 @@ tech stack
   <summary><b>Skills</b></summary>
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![perl](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)](https://www.perl.org/)
 [![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
