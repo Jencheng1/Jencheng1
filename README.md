@@ -24,7 +24,7 @@ for freelance work? do reach out: [email](jennifercheng2001@gmail.com) :)
 
 
 
-- 🔭 I’m currently working on **_my startup Neo007_** and _**my portfolio website**_
+- 🔭 I’m currently working on **_Leechy_** and _**my portfolio website**_
 - 🌱 I’m currently learning **_next.js_**
 - 👯 I’m looking to collaborate on **_big and small projects!_**
 - 🤔 I’m looking for help with **_implementing slms and agents_**
