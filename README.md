@@ -1,6 +1,6 @@
 
 
-#### hi, im jen! 👨🏻‍💻  web/app dev and ai engineer
+#### hi, im jen! 👨🏻‍💻  web/app designer and ai engineer
 
 
 <!--
