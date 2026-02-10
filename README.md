@@ -24,19 +24,18 @@ for freelance work? do reach out: [email](jennifercheng2001@gmail.com) :)
 
 
 
-- 🔭 I’m currently working on **_Leechy_** and _**my portfolio website**_
+- 🔭 I’m currently working on **_Validate_** and _**my portfolio website**_
 - 🌱 I’m currently learning **_next.js_**
 - 👯 I’m looking to collaborate on **_big and small projects!_**
-- 🤔 I’m looking for help with **_implementing slms and agents_**
 - 💬 Ask me about **_ui/ux design advice ;)_**
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/jen-chengg/) or [email me!](jennifercheng2001@gmail.com)  :)
 
 
 
 
-tech stack
+my stack
 - 🛠 Lang & Framework: Vue/React, Javascript, Python, HTML/CSS, R, AWS
-- ⛏ Interests: Typescript, C
+- Design: Figma, Adobe Photoshop
 
 
 <details>
