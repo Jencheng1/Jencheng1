@@ -38,6 +38,10 @@ my stack
 - Design: Figma, Adobe Photoshop
 
 
+
+🏆 Hackathons
+-  **AI Health Hackathon** — Built a claim denial prediction tool with [stack]. [First Place]. [Repo link](https://github.com/Jencheng1/claim-denial-prediction-25)
+
 <details>
   <summary><b>Skills</b></summary>
 
