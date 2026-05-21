@@ -39,9 +39,12 @@ my stack
 
 
 
-🏆 Hackathons
--  **AI Health Hackathon** — Built a claim denial prediction tool with [stack]. [First Place]. [Repo link](https://github.com/Jencheng1/claim-denial-prediction-25)
+🏆 hackathons
+-  **Health x AI Hackathon** — Helping clinicians predict insurance approvals. Figma prototypes -> code via Figma MCP. **1st Place**. [Repo link](https://github.com/Jencheng1/claim-denial-prediction-25). [Demo link](https://devpost.com/software/claimassist)
+-  **VapiAI x AssemblyAI** — A conversational voice AI agent for industry data collection. Led prompt engineering and user flows. Shipped in under 10 hours. **1st Place**. 
+-  **FractalTech NYC** — Reddit posting/scheduling tool for founders validating startup ideas. Built with Claude Code + v0 + custom Figma. **3rd Place**. [Repo link](https://github.com/Jencheng1/reddipost)
 
+  
 <details>
   <summary><b>Skills</b></summary>
 
