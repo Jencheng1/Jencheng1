@@ -25,17 +25,17 @@ for freelance work? do reach out: [email](jennifercheng2001@gmail.com) :)
 
 
 - 🔭 I’m currently working on **_Validate_** and _**my portfolio website**_
-- 🌱 I’m currently learning **_next.js_**
+- 🌱 I’m currently learning **_voice ai_**
 - 👯 I’m looking to collaborate on **_big and small projects!_**
-- 💬 Ask me about **_ui/ux design advice ;)_**
-- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/jen-chengg/) or [email me!](jennifercheng2001@gmail.com)  :)
+- 💬 Ask me about **_ui/ux design advice_**
+- 📫 How to reach me: [email me!](jennifercheng2001@gmail.com)  :)
 
 
 
 
 my stack
-- 🛠 Lang & Framework: Vue/React, Javascript, Python, HTML/CSS, R, AWS
-- Design: Figma, Adobe Photoshop
+- 🛠 Lang & Framework: React, JavaScript, Python, HTML/CSS, R, AWS
+- Design: Figma, [Paper](https://paper.design/)
 
 
 
